@@ -1,6 +1,3 @@
-# Shuttlegames (WORKING MARCH 2023)
-Play mobile games online <br>
-
 Created by Shuttlegames (https://discord.gg/xi)
 ## Info
 
